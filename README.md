@@ -3,11 +3,11 @@ Software Requirements Specification (SRS)
 Project Name: Quoting Project 
 Table of Contents
 Introduction
-1.1 Purpose
-1.2 Scope
-1.3 Document Conventions
-1.4 Intended Audience
-1.5 References
+	1.1 Purpose
+	1.2 Scope
+	1.3 Document Conventions
+	1.4 Intended Audience
+	1.5 References
 
 Overall Description
 2.1 System Overview
