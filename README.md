@@ -1,9 +1,26 @@
 Software Requirements Specification (SRS) 
 
- 
-
 Project Name: Quoting Project 
+Table of Contents
+Introduction
+1.1 Purpose
+1.2 Scope
+1.3 Document Conventions
+1.4 Intended Audience
+1.5 References
 
+Overall Description
+2.1 System Overview
+2.2 System Architecture
+2.3 Technologies Used
+
+Detailed Requirements
+3.1 User Authentication
+3.2 Select Page
+3.3 Location Page
+3.4 Product Selection Page
+3.5 Configuration Page
+3.6 Billing Page
 
 1. Introduction 
 
